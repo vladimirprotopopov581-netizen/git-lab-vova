@@ -25,7 +25,7 @@ Merge:
 
 ```text
 D1---D2---D3------M
-      \\           /
+      \           /
        D4---D5---/
 ```
 
@@ -44,3 +44,4 @@ No GitHub/GitLab URL or existing local repository was available on the laptop. `
 Skipped only the explicitly bonus-marked comparison of conflicting and non-conflicting `C3`/`C5` changes and the separate asterisk-marked final graph exercise.
 
 The branch name `vova` uses the Windows profile name because the lab file does not provide a surname or initials.
+
