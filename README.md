@@ -39,9 +39,8 @@ The demo changes touch separate files, so these required graph operations comple
 
 ## Remote and scope
 
-No GitHub/GitLab URL or existing local repository was available on the laptop. `origin` is therefore a local bare repository at `../remote.git`, and a second local clone represents the server-side edit. No files were published to an unspecified account.
+The private GitHub repository is `https://github.com/vladimirprotopopov581-netizen/git-lab-vova`. The branch `vova` is the working branch. A second clone was used for the remote-side change before the local branch was synchronized.
 
-Skipped only the explicitly bonus-marked comparison of conflicting and non-conflicting `C3`/`C5` changes and the separate asterisk-marked final graph exercise.
+The required graph tasks are shown on `diagram-merge` and `diagram-rebase`. The non-conflicting commit graph is used; the explicitly marked bonus comparison of conflicting and non-conflicting `C3`/`C5` changes and the separate asterisk-marked final graph exercise are skipped.
 
-The branch name `vova` uses the Windows profile name because the lab file does not provide a surname or initials.
-
+The branch name `vova` follows the Windows profile name because the lab file does not provide a surname or initials.
