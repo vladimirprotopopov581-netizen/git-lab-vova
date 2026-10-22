@@ -40,7 +40,7 @@ The demo changes touch separate files, so these required graph operations comple
 
 ## Remote and scope
 
-The private GitHub repository is `https://github.com/vladimirprotopopov581-netizen/git-lab-vova`. The branch `vova` is the working branch. A second clone was used for the remote-side change before the local branch was synchronized.
+The public GitHub repository is `https://github.com/vladimirprotopopov581-netizen/git-lab-vova`. The branch `vova` is the working branch. A second clone was used for the remote-side change before the local branch was synchronized.
 
 The required graph tasks are shown on `diagram-merge` and `diagram-rebase`. The non-conflicting commit graph is used; the explicitly marked bonus comparison of conflicting and non-conflicting `C3`/`C5` changes and the separate asterisk-marked final graph exercise are skipped.
 
