@@ -4,7 +4,7 @@ All required non-bonus tasks from `Л_р_Git.docx` are represented in this local
 
 ## Calculator
 
-`main.py` asks for two integers and prints their sum. Earlier commits show the starter program, integer input, and addition. Commit `C5` changed the operation to subtraction; commit `C6`, made through GitHub's web editor, changed it back to addition. With input `7` and `5`, the final program prints `Sum: 12`.
+`main.py` asks for two integers and prints their difference. Earlier commits show the starter program, integer input, and addition. Commit `C5` changed the operation to subtraction. Commit `C6` briefly changed it back to addition, and commit `C7`, made through GitHub's web editor, restored subtraction. With input `7` and `5`, the final program prints `Difference: 2`.
 
 Run it with `python main.py`.
 
@@ -15,8 +15,8 @@ Run it with `python main.py`.
 - Viewed the commit history with `git log --oneline --graph --all --decorate`.
 - Compared the first and third program commits with `git diff 86ff0e9 e1d534d`.
 - Changed the operation to subtraction in a second clone and pushed it as `C5`.
-- Edited `main.py` in GitHub's web interface, changed subtraction back to addition, committed as `C6`, and synchronized the local `vova` branch.
-- Merged the updated `vova` branch into `master` and pushed the result.
+- Edited `main.py` in GitHub's web interface in `C6`, changed subtraction back to addition, synchronized `vova`, and merged it into `master`.
+- Matched the final subtraction behavior on `vova` in the GitHub web editor as `C7`, synchronized it locally, and merged it into `master`.
 - Built both requested commit graph outcomes: a merge result on `diagram-merge`, and the rebased linear history on `diagram-rebase`.
 - Added two separate files in one commit (`D6`) on `diagram-rebase` to demonstrate combining two changes as one commit.
 
